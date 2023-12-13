@@ -3,6 +3,7 @@
 ## Description
 
 Projet Serrurier is a Python application designed to automate the monitoring and management of phone calls in a professional context. The application uses Selenium and Python to scrutinize a call logging system, identify important calls, and send notifications via SMS.
+It was created at the request of a locksmith who deals with emergencies. Customers sometimes wait no more than 10 seconds on the phone, so they hang up, which leads to a loss of customers. Thanks to this python program, once the locksmith has finished his callback, he knows that someone has tried to contact him and has his contact details by text message.
 
 ## Prerequisites
 
